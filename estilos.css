@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fondo {
+    background-color: rgb(250,208,187);
+}
+
+.fondoNosotros {
+    background-color: rgb(255,227,227);
+}
